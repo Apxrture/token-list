@@ -118813,6 +118813,18 @@
         "social-token"
       ]
     }
+    {
+      "chainId": 101,
+      "address": "AiyQDVjnwg1phQRjCyyxyHdHvTBYhF8eXtmuBPRQrqRB",
+      "symbol": "SSS",
+      "name": "SKULLS",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Apxrture/SSS/main/pixil-frame-0%20(1).png",
+      "tags": [
+        "utility-token",
+        "social-token",
+      ]
+    },
   ],
   "version": {
     "major": 0,
